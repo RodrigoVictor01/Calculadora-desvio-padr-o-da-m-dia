@@ -1,1 +1,1 @@
-# Calculadora-desvio-padr-o-da-m-dia
+# Calculadora-desvio-padrao-da-media
