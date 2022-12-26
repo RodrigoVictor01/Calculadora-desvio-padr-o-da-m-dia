@@ -2,7 +2,8 @@
 
 ## Descrição
 
-Este código foi criado com a finalidade de otimizar meu tempo e de meus colegas nas aulas do curso de Física Experimental I, ministrada pelo docente André Bessa Moreira no semestre 2022.2. 
+Este código foi criado com a finalidade de otimizar meu tempo e de meus colegas nas aulas do curso de Física Experimental I, ministrada pelo docente André Bessa Moreira no semestre 2022.2. <br>
+Para rodar o código, eu utilizei o editor de texto online: <a href="https://js.do/">Js.do</a>
 
 Cada aula exigia realizar o cálculo do desvio padrão da média de determinada medida de forma manual a fim de saber a dispersão da medida no experimento, pois a calculadora científica não dispõe o cálculo do desvio padrão da média, somente o cálculo do desvio padrão amostral e populacional e isso levava um certo tempo que poderia ser aproveitado de outras maneiras durante as aulas.
 
