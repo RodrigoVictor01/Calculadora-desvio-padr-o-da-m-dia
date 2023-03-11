@@ -1,11 +1,8 @@
-<script>
 var vetorA = []
 var vetorSoma = []
 var somaMedia = 0
 var soma = 0
 var N
-
-
 
 function calcSigma(N){
 N = parseInt(prompt("Digite a quantidade de números a serem calculados"))
@@ -33,10 +30,9 @@ soma += vetorSoma[i]
 calc = soma/(N*(N-1))
 
 sigma = Math.sqrt(calc)
-alert("Desvio padrão da média = " + sigma.toFixed(6))
+alert(`Desvio padrão da média = ${sigma.toFixed(6)}`)
 
 }
 
 calcSigma(N)
 
-</script>
